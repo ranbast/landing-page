@@ -1,1 +1,0 @@
-Building a landing page for the Odin Project, wish me luck !
